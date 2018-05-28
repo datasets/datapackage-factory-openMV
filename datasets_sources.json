@@ -1,0 +1,32 @@
+{
+    "OpenMV":{
+        "link":"http://openmv.net/",
+        "datasets":[
+            {
+                "name":"Food consumption",
+                "link":"http://openmv.net/file/food-consumption.csv",
+                "license":{
+                    "title":"Creative Commons Attribution-ShareAlike 4.0 Unported (CC BY-SA 4.0)",
+                    "link":"https://creativecommons.org/licenses/by-sa/4.0/"
+                }
+            },
+            {
+                "name":"Food consumption",
+                "link":"http://openmv.net/file/food-consumption.csv",
+                "license":{
+                    "title":"Creative Commons Attribution-ShareAlike 4.0 Unported (CC BY-SA 4.0)",
+                    "link":"https://creativecommons.org/licenses/by-sa/4.0/"
+                }
+            },
+            {
+                "name":"Food consumption",
+                "link":"http://openmv.net/file/food-consumption.csv",
+                "license":{
+                    "title":"Creative Commons Attribution-ShareAlike 4.0 Unported (CC BY-SA 4.0)",
+                    "link":"https://creativecommons.org/licenses/by-sa/4.0/"
+                }
+            }
+
+        ]
+    }
+}
