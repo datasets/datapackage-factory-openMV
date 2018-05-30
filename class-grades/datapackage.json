@@ -1,0 +1,23 @@
+{
+  "name": "class-grades",
+  "title": "Class grades",
+  "licenses": [
+    {
+      "name":"Creative Commons",
+      "path": "https://creativecommons.org/licenses/by-sa/4.0/"      
+    }
+  ],
+  "sources": [
+    {
+      "title": "Class grades",
+      "path": "http://openmv.net/file/class-grades.csv"
+    }
+  ],
+  "resources": [
+    {
+      "path": "http://openmv.net/file/class-grades.csv",
+      "name": "class-grades",
+      "format": "csv"
+    }
+  ]
+}

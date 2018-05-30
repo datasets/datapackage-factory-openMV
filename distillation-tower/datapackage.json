@@ -1,0 +1,23 @@
+{
+  "name": "distillation-tower",
+  "title": "Distillation tower",
+  "licenses": [
+    {
+      "name":"Creative Commons",
+      "path": "https://creativecommons.org/licenses/by-sa/4.0/"      
+    }
+  ],
+  "sources": [
+    {
+      "title": "Distillation tower",
+      "path": "http://openmv.net/file/distillation-tower.csv"
+    }
+  ],
+  "resources": [
+    {
+      "path": "http://openmv.net/file/distillation-tower.csv",
+      "name": "distillation-tower",
+      "format": "csv"
+    }
+  ]
+}

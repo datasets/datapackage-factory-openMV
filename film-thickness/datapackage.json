@@ -1,0 +1,23 @@
+{
+  "name": "film-thickness",
+  "title": "Film thickness",
+  "licenses": [
+    {
+      "name":"Creative Commons",
+      "path": "https://creativecommons.org/licenses/by-sa/4.0/"    
+    }
+  ],
+  "sources": [
+    {
+      "title": "Film thickness",
+      "path": "http://openmv.net/file/film-thickness.csv"
+    }
+  ],
+  "resources": [
+    {
+      "path": "http://openmv.net/file/film-thickness.csv",
+      "name": "film-thickness",
+      "format": "csv"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "flotation-cell",
+  "title": "Flotation cell",
+  "licenses": [
+    {
+      "name":"Creative Commons",
+      "path": "https://creativecommons.org/licenses/by-sa/4.0/"     
+    }
+  ],
+  "sources": [
+    {
+      "title": "Flotation cell",
+      "path": "http://openmv.net/file/flotation-cell.csv"
+    }
+  ],
+  "resources": [
+    {
+      "path": "http://openmv.net/file/flotation-cell.csv",
+      "name": "flotation-cell",
+      "format": "csv"
+    }
+  ]
+}

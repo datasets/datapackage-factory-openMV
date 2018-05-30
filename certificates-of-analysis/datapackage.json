@@ -1,0 +1,23 @@
+{
+  "name": "certificates-of-analysis",
+  "title": "Certificates of analysis",
+  "licenses": [
+    {
+      "name":"Creative Commons",
+      "path": "https://creativecommons.org/licenses/by-sa/4.0/"      
+    }
+  ],
+  "sources": [
+    {
+      "title": "Certificates of analysis",
+      "path": "http://openmv.net/file/certificates-of-analysis.csv"
+    }
+  ],
+  "resources": [
+    {
+      "path": "http://openmv.net/file/certificates-of-analysis.csv",
+      "name": "certificates-of-analysis",
+      "format": "csv"
+    }
+  ]
+}

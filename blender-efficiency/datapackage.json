@@ -1,0 +1,23 @@
+{
+  "name": "blender-efficiency",
+  "title": "Blender efficiency",
+  "licenses": [
+    {
+      "name":"Creative Commons",
+      "path": "https://creativecommons.org/licenses/by-sa/4.0/"      
+    }
+  ],
+  "sources": [
+    {
+      "title": "Blender efficiency",
+      "path": "http://openmv.net/file/blender-efficiency.csv"
+    }
+  ],
+  "resources": [
+    {
+      "path": "http://openmv.net/file/blender-efficiency.csv",
+      "name": "blender-efficiency",
+      "format": "csv"
+    }
+  ]
+}

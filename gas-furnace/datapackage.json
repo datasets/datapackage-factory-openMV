@@ -1,0 +1,23 @@
+{
+  "name": "gas-furnace",
+  "title": "Gas furnace",
+  "licenses": [
+    {
+      "name":"Creative Commons",
+      "path": "https://creativecommons.org/licenses/by-sa/4.0/"     
+    }
+  ],
+  "sources": [
+    {
+      "title": "Gas furnace",
+      "path": "http://openmv.net/file/gas-furnace.csv"
+    }
+  ],
+  "resources": [
+    {
+      "path": "http://openmv.net/file/gas-furnace.csv",
+      "name": "gas-furnace",
+      "format": "csv"
+    }
+  ]
+}

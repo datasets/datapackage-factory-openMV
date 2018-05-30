@@ -1,0 +1,23 @@
+{
+  "name": "bioreactor-yields",
+  "title": "Bioreactor yields",
+  "licenses": [
+    {
+      "name":"Creative Commons",
+      "path": "https://creativecommons.org/licenses/by-sa/4.0/"      
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bioreactor yields",
+      "path": "http://openmv.net/file/bioreactor-yields.csv"
+    }
+  ],
+  "resources": [
+    {
+      "path": "http://openmv.net/file/bioreactor-yields.csv",
+      "name": "bioreactor-yields",
+      "format": "csv"
+    }
+  ]
+}

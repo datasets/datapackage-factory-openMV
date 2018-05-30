@@ -1,0 +1,23 @@
+{
+  "name": "batch-yield-purity",
+  "title": "Batch yield and purity",
+  "licenses": [
+    {
+      "name":"Creative Commons",
+      "path": "https://creativecommons.org/licenses/by-sa/4.0/"      
+    }
+  ],
+  "sources": [
+    {
+      "title": "Batch Yield and purity",
+      "path": "http://openmv.net/file/batch-yield-and-purity.csv"
+    }
+  ],
+  "resources": [
+    {
+      "path": "http://openmv.net/file/batch-yield-and-purity.csv",
+      "name": "batch-yield-purity",
+      "format": "csv"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "ammonia-concentration",
+  "title": "Ammonia concentration",
+  "licenses": [
+    {
+      "name":"Creative Commons",
+      "path": "https://creativecommons.org/licenses/by-sa/4.0/"      
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ammonia concentration",
+      "path": "http://openmv.net/file/ammonia.csv"
+    }
+  ],
+  "resources": [
+    {
+      "path": "http://openmv.net/file/ammonia.csv",
+      "name": "ammonia-concentration",
+      "format": "csv"
+    }
+  ]
+}

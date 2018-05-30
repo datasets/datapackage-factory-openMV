@@ -1,0 +1,23 @@
+{
+  "name": "distillate-flowrate",
+  "title": "Distillate flowrate",
+  "licenses": [
+    {
+      "name":"Creative Commons",
+      "path": "https://creativecommons.org/licenses/by-sa/4.0/"      
+    }
+  ],
+  "sources": [
+    {
+      "title": "Distillate flowrate",
+      "path": "http://openmv.net/file/distillate-flow.csv"
+    }
+  ],
+  "resources": [
+    {
+      "path": "http://openmv.net/file/distillate-flow.csv",
+      "name": "distillate-flowrate",
+      "format": "csv"
+    }
+  ]
+}

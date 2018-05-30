@@ -1,0 +1,23 @@
+{
+  "name": "batch-yields",
+  "title": "Batch yields",
+  "licenses": [
+    {
+      "name":"Creative Commons",
+      "path": "https://creativecommons.org/licenses/by-sa/4.0/"      
+    }
+  ],
+  "sources": [
+    {
+      "title": "Batch yields",
+      "path": "http://openmv.net/file/batch-yields.csv"
+    }
+  ],
+  "resources": [
+    {
+      "path": "http://openmv.net/file/batch-yields.csv",
+      "name": "batch-yields",
+      "format": "csv"
+    }
+  ]
+}

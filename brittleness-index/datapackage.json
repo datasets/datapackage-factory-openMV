@@ -1,0 +1,23 @@
+{
+  "name": "brittleness-index",
+  "title": "Brittleness index",
+  "licenses": [
+    {
+      "name":"Creative Commons",
+      "path": "https://creativecommons.org/licenses/by-sa/4.0/"      
+    }
+  ],
+  "sources": [
+    {
+      "title": "Brittleness index",
+      "path": "http://openmv.net/file/brittleness-index.csv"
+    }
+  ],
+  "resources": [
+    {
+      "path": "http://openmv.net/file/brittleness-index.csv",
+      "name": "brittleness-index",
+      "format": "csv"
+    }
+  ]
+}

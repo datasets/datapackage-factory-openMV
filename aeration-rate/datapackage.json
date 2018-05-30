@@ -1,0 +1,23 @@
+{
+  "name": "aeration-rate",
+  "title": "Aeration rate",
+  "licenses": [
+    {
+      "name":"Creative Commons",
+      "path": "https://creativecommons.org/licenses/by-sa/4.0/"      
+    }
+  ],
+  "sources": [
+    {
+      "title": "Aeration rate",
+      "path": "http://openmv.net/file/aeration-rate.csv"
+    }
+  ],
+  "resources": [
+    {
+      "path": "http://openmv.net/file/aeration-rate.csv",
+      "name": "aeration-rate",
+      "format": "csv"
+    }
+  ]
+}

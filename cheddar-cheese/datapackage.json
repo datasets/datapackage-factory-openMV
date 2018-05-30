@@ -1,0 +1,23 @@
+{
+  "name": "cheddar-cheese",
+  "title": "Cheddar cheese",
+  "licenses": [
+    {
+      "name":"Creative Commons",
+      "path": "https://creativecommons.org/licenses/by-sa/4.0/"      
+    }
+  ],
+  "sources": [
+    {
+      "title": "Cheddar cheese",
+      "path": "http://openmv.net/file/cheddar-cheese.csv"
+    }
+  ],
+  "resources": [
+    {
+      "path": "http://openmv.net/file/cheddar-cheese.csv",
+      "name": "cheddar-cheese",
+      "format": "csv"
+    }
+  ]
+}

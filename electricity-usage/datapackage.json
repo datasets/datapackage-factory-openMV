@@ -1,0 +1,23 @@
+{
+  "name": "electricity-usage",
+  "title": "Electricity usage",
+  "licenses": [
+    {
+      "name":"Creative Commons",
+      "path": "https://creativecommons.org/licenses/by-sa/4.0/"      
+    }
+  ],
+  "sources": [
+    {
+      "title": "Electricity usage",
+      "path": "http://openmv.net/file/electricity-usage.csv"
+    }
+  ],
+  "resources": [
+    {
+      "path": "http://openmv.net/file/electricity-usage.csv",
+      "name": "electricity-usage",
+      "format": "csv"
+    }
+  ]
+}

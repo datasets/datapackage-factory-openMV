@@ -1,0 +1,23 @@
+{
+  "name": "food-texture",
+  "title": "Food texture",
+  "licenses": [
+    {
+      "name":"Creative Commons",
+      "path": "https://creativecommons.org/licenses/by-sa/4.0/"    
+    }
+  ],
+  "sources": [
+    {
+      "title": "Food texture",
+      "path": "http://openmv.net/file/food-texture.csv"
+    }
+  ],
+  "resources": [
+    {
+      "path": "http://openmv.net/file/food-texture.csv",
+      "name": "food-texture",
+      "format": "csv"
+    }
+  ]
+}
