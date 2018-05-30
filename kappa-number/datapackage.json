@@ -1,0 +1,23 @@
+{
+  "name": "kappa-number",
+  "title": "Kappa number",
+  "licenses": [
+    {
+      "name":"Creative Commons",
+      "path": "https://creativecommons.org/licenses/by-sa/4.0/"     
+    }
+  ],
+  "sources": [
+    {
+      "title": "Kappa number",
+      "path": "http://openmv.net/file/kappa-number.csv"
+    }
+  ],
+  "resources": [
+    {
+      "path": "http://openmv.net/file/kappa-number.csv",
+      "name": "kappa-number",
+      "format": "csv"
+    }
+  ]
+}

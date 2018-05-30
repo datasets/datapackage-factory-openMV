@@ -1,0 +1,23 @@
+{
+  "name": "tablet-spectral",
+  "title": "Tablet NIR spectral data",
+  "licenses": [
+    {
+      "name":"Creative Commons",
+      "path": "https://creativecommons.org/licenses/by-sa/4.0/"      
+    }
+  ],
+  "sources": [
+    {
+      "title": "Tablet NIR spectral data",
+      "path": "http://openmv.net/file/tablet-spectra.csv"
+    }
+  ],
+  "resources": [
+    {
+      "path": "http://openmv.net/file/tablet-spectra.csv",
+      "name": "tablet-spectral",
+      "format": "csv"
+    }
+  ]
+}

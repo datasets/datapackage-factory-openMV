@@ -1,0 +1,23 @@
+{
+  "name": "oil-company-doe",
+  "title": "Oil company DOE",
+  "licenses": [
+    {
+      "name":"Creative Commons",
+      "path": "https://creativecommons.org/licenses/by-sa/4.0/"       
+    }
+  ],
+  "sources": [
+    {
+      "title": "Oil company DOE",
+      "path": "http://openmv.net/file/oil-company-doe.csv"
+    }
+  ],
+  "resources": [
+    {
+      "path": "http://openmv.net/file/oil-company-doe.csv",
+      "name": "oil-company-doe",
+      "format": "csv"
+    }
+  ]
+}

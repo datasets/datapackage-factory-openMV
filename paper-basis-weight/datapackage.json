@@ -1,0 +1,23 @@
+{
+  "name": "paper-basis-weight",
+  "title": "Paper basis weight",
+  "licenses": [
+    {
+      "name":"Creative Commons",
+      "path": "https://creativecommons.org/licenses/by-sa/4.0/"     
+    }
+  ],
+  "sources": [
+    {
+      "title": "Paper basis weight",
+      "path": "http://openmv.net/file/paper-basis-weight.csv"
+    }
+  ],
+  "resources": [
+    {
+      "path": "http://openmv.net/file/paper-basis-weight.csv",
+      "name": "paper-basis-weight",
+      "format": "csv"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "systematic-method",
+  "title": "Systematic method",
+  "licenses": [
+    {
+      "name":"Creative Commons",
+      "path": "https://creativecommons.org/licenses/by-sa/4.0/"     
+    }
+  ],
+  "sources": [
+    {
+      "title": "Systematic method",
+      "path": "http://openmv.net/file/systematic-method.csv"
+    }
+  ],
+  "resources": [
+    {
+      "path": "http://openmv.net/file/systematic-method.csv",
+      "name": "systematic-method",
+      "format": "csv"
+    }
+  ]
+}

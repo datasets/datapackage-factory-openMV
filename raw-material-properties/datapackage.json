@@ -1,0 +1,23 @@
+{
+  "name": "raw-material-properties",
+  "title": "Raw material properties",
+  "licenses": [
+    {
+      "name":"Creative Commons",
+      "path": "https://creativecommons.org/licenses/by-sa/4.0/"     
+    }
+  ],
+  "sources": [
+    {
+      "title": "Raw material properties",
+      "path": "http://openmv.net/file/raw-material-properties.csv"
+    }
+  ],
+  "resources": [
+    {
+      "path": "http://openmv.net/file/raw-material-properties.csv",
+      "name": "raw-material-properties",
+      "format": "csv"
+    }
+  ]
+}

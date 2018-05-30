@@ -1,0 +1,23 @@
+{
+  "name": "raw-material-height",
+  "title": "Raw material height in a container",
+  "licenses": [
+    {
+      "name":"Creative Commons",
+      "path": "https://creativecommons.org/licenses/by-sa/4.0/" 
+    }
+  ],
+  "sources": [
+    {
+      "title": "Raw material height in a container",
+      "path": "http://openmv.net/file/raw-material-height.csv"
+    }
+  ],
+  "resources": [
+    {
+      "path": "http://openmv.net/file/raw-material-height.csv",
+      "name": "raw-material-height",
+      "format": "csv"
+    }
+  ]
+}

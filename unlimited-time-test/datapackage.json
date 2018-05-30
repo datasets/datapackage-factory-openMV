@@ -1,0 +1,23 @@
+{
+  "name": "unlimited-time-test",
+  "title": "Unlimited time test",
+  "licenses": [
+    {
+      "name":"Creative Commons",
+      "path": "https://creativecommons.org/licenses/by-sa/4.0/"  
+    }
+  ],
+  "sources": [
+    {
+      "title": "Unlimited time test",
+      "path": "http://openmv.net/file/unlimited-time-test.csv"
+    }
+  ],
+  "resources": [
+    {
+      "path": "http://openmv.net/file/unlimited-time-test.csv",
+      "name": "unlimited-time-test",
+      "format": "csv"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "travel-times",
+  "title": "Travel times",
+  "licenses": [
+    {
+      "name":"Creative Commons",
+      "path": "https://creativecommons.org/licenses/by-sa/4.0/"     
+    }
+  ],
+  "sources": [
+    {
+      "title": "Travel times",
+      "path": "http://openmv.net/file/travel-times.csv"
+    }
+  ],
+  "resources": [
+    {
+      "path": "http://openmv.net/file/travel-times.csv",
+      "name": "travel-times",
+      "format": "csv"
+    }
+  ]
+}

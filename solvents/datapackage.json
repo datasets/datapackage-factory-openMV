@@ -1,0 +1,23 @@
+{
+  "name": "solvents",
+  "title": "Solvents",
+  "licenses": [
+    {
+      "name":"Creative Commons",
+      "path": "https://creativecommons.org/licenses/by-sa/4.0/"      
+    }
+  ],
+  "sources": [
+    {
+      "title": "Solvents",
+      "path": "http://openmv.net/file/solvents.csv"
+    }
+  ],
+  "resources": [
+    {
+      "path": "http://openmv.net/file/solvents.csv",
+      "name": "solvents",
+      "format": "csv"
+    }
+  ]
+}

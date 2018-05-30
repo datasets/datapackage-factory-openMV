@@ -1,0 +1,23 @@
+{
+  "name": "wood-fibres",
+  "title": "Wood fibres",
+  "licenses": [
+    {
+      "name":"Creative Commons",
+      "path": "https://creativecommons.org/licenses/by-sa/4.0/"      
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wood fibres",
+      "path": "http://openmv.net/file/wood-fibres.csv"
+    }
+  ],
+  "resources": [
+    {
+      "path": "http://openmv.net/file/wood-fibres.csv",
+      "name": "wood-fibres",
+      "format": "csv"
+    }
+  ]
+}

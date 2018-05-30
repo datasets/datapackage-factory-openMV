@@ -1,0 +1,23 @@
+{
+  "name": "silicon-wafer-thickness",
+  "title": "Silicon wafer thickness",
+  "licenses": [
+    {
+      "name":"Creative Commons",
+      "path": "https://creativecommons.org/licenses/by-sa/4.0/"    
+    }
+  ],
+  "sources": [
+    {
+      "title": "Silicon wafer thickness",
+      "path": "http://openmv.net/file/silicon-wafer-thickness.csv"
+    }
+  ],
+  "resources": [
+    {
+      "path": "http://openmv.net/file/silicon-wafer-thickness.csv",
+      "name": "Silicon wafer thickness",
+      "format": "csv"
+    }
+  ]
+}

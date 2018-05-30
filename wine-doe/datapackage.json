@@ -1,0 +1,23 @@
+{
+  "name": "wine-doe",
+  "title": "Wine DOE",
+  "licenses": [
+    {
+      "name":"Creative Commons",
+      "path": "https://creativecommons.org/licenses/by-sa/4.0/"   
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wine DOE",
+      "path": "http://openmv.net/file/wine-doe.csv"
+    }
+  ],
+  "resources": [
+    {
+      "path": "http://openmv.net/file/wine-doe.csv",
+      "name": "wine-doe",
+      "format": "csv"
+    }
+  ]
+}

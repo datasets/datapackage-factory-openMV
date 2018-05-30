@@ -1,0 +1,23 @@
+{
+  "name": "peas",
+  "title": "Peas",
+  "licenses": [
+    {
+      "name":"Creative Commons",
+      "path": "https://creativecommons.org/licenses/by-sa/4.0/"     
+    }
+  ],
+  "sources": [
+    {
+      "title": "Peas",
+      "path": "http://openmv.net/file/peas.csv"
+    }
+  ],
+  "resources": [
+    {
+      "path": "http://openmv.net/file/peas.csv",
+      "name": "peas",
+      "format": "csv"
+    }
+  ]
+}

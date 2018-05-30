@@ -1,0 +1,23 @@
+{
+  "name": "LDPE",
+  "title": "LDPE",
+  "licenses": [
+    {
+      "name":"Creative Commons",
+      "path": "https://creativecommons.org/licenses/by-sa/4.0/"      
+    }
+  ],
+  "sources": [
+    {
+      "title": "LDPE",
+      "path": "http://openmv.net/file/LDPE.csv"
+    }
+  ],
+  "resources": [
+    {
+      "path": "http://openmv.net/file/LDPE.csv",
+      "name": "LDPE",
+      "format": "csv"
+    }
+  ]
+}

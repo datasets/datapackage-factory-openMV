@@ -1,0 +1,23 @@
+{
+  "name": "six-point-board-thickness",
+  "title": "Six-point board thickness",
+  "licenses": [
+    {
+      "name":"Creative Commons",
+      "path": "https://creativecommons.org/licenses/by-sa/4.0/"     
+    }
+  ],
+  "sources": [
+    {
+      "title": "Six-point board thickness",
+      "path": "http://openmv.net/file/six-point-board-thickness.csv"
+    }
+  ],
+  "resources": [
+    {
+      "path": "http://openmv.net/file/six-point-board-thickness.csv",
+      "name": "six-point-board-thickness",
+      "format": "csv"
+    }
+  ]
+}

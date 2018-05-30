@@ -1,0 +1,23 @@
+{
+  "name": "raw-material-outcome",
+  "title": "Raw material outcome",
+  "licenses": [
+    {
+      "name":"Creative Commons",
+      "path": "https://creativecommons.org/licenses/by-sa/4.0/"     
+    }
+  ],
+  "sources": [
+    {
+      "title": "Raw material outcome",
+      "path": "http://openmv.net/file/raw-material-characterization.csv"
+    }
+  ],
+  "resources": [
+    {
+      "path": "http://openmv.net/file/raw-material-characterization.csv",
+      "name": "raw-material-outcome",
+      "format": "csv"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "kamyr-digester",
+  "title": "Kamyr digester",
+  "licenses": [
+    {
+      "name":"Creative Commons",
+      "path": "https://creativecommons.org/licenses/by-sa/4.0/" 
+    }
+  ],
+  "sources": [
+    {
+      "title": "Kamyr digester",
+      "path": "http://openmv.net/file/kamyr-digester.csv"
+    }
+  ],
+  "resources": [
+    {
+      "path": "http://openmv.net/file/kamyr-digester.csv",
+      "name": "kamyr-digester",
+      "format": "csv"
+    }
+  ]
+}

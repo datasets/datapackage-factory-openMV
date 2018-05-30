@@ -1,0 +1,23 @@
+{
+  "name": "website-traffic",
+  "title": "Website traffic",
+  "licenses": [
+    {
+      "name":"Creative Commons",
+      "path": "https://creativecommons.org/licenses/by-sa/4.0/"    
+    }
+  ],
+  "sources": [
+    {
+      "title": "Website traffic",
+      "path": "http://openmv.net/file/website-traffic.csv"
+    }
+  ],
+  "resources": [
+    {
+      "path": "http://openmv.net/file/website-traffic.csv",
+      "name": "website-traffic",
+      "format": "csv"
+    }
+  ]
+}

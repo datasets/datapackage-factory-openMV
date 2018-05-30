@@ -1,0 +1,23 @@
+{
+  "name": "sawdust",
+  "title": "Sawdust",
+  "licenses": [
+    {
+      "name":"Creative Commons",
+      "path": "https://creativecommons.org/licenses/by-sa/4.0/"   
+    }
+  ],
+  "sources": [
+    {
+      "title": "Sawdust",
+      "path": "http://openmv.net/file/sawdust.csv"
+    }
+  ],
+  "resources": [
+    {
+      "path": "http://openmv.net/file/sawdust.csv",
+      "name": "sawdust",
+      "format": "csv"
+    }
+  ]
+}

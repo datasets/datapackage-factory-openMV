@@ -1,0 +1,23 @@
+{
+  "name": "rubber-colour",
+  "title": "Rubber colour",
+  "licenses": [
+    {
+      "name":"Creative Commons",
+      "path": "https://creativecommons.org/licenses/by-sa/4.0/"     
+    }
+  ],
+  "sources": [
+    {
+      "title": "Rubber colour",
+      "path": "http://openmv.net/file/rubber-colour.csv"
+    }
+  ],
+  "resources": [
+    {
+      "path": "http://openmv.net/file/rubber-colour.csv",
+      "name": "rubber-colour",
+      "format": "csv"
+    }
+  ]
+}
