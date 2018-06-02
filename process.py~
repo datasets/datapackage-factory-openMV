@@ -8,10 +8,12 @@ class Process(object):
     def __init__(self):        
         self.path_dp = "../datapackage.json"
         self.path_data = "../data"
+        
+        CURRENT_DIR = os.path.dirname(__file__)
 
         # Resolved to absolute path for debugging in vscode        
-        self.path_dp = os.path.abspath(self.path_dp)
-        self.path_data = os.path.abspath(self.path_data)
+        self.path_dp = os.path.join(CURRENT_DIR,self.path_dp)
+        self.path_data = os.path.join(CURRENT_DIR,self.path_data)
         
         # Creating data directory if it doesnot exists 
         self.setup()
