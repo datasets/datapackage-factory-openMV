@@ -8,4 +8,4 @@ The data has been simulated and consists of 15 rows and 3 columns.
 Python version: 3.6 
 
 # License
-Please follow [this]("https://creativecommons.org/licenses/by-sa/4.0/") for License information
+Please follow [this](https://creativecommons.org/licenses/by-sa/4.0/) for License information

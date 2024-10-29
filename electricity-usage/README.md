@@ -12,4 +12,4 @@ Electricity consumption as recorded by the local utility company on an hour-by-h
 Python version: 3.6 
 
 # License
-Please follow [this]("https://creativecommons.org/licenses/by-sa/4.0/") for License information
+Please follow [this](https://creativecommons.org/licenses/by-sa/4.0/) for License information

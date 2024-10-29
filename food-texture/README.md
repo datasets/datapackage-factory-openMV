@@ -14,4 +14,4 @@ The dataset has been simulated to represent the characteristics of an indutrial 
 Python version: 3.6 
 
 # License
-Please follow [this]("https://creativecommons.org/licenses/by-sa/4.0/") for License information
+Please follow [this](https://creativecommons.org/licenses/by-sa/4.0/) for License information

@@ -13,4 +13,4 @@ Python version: 3.6
 Preparation was carried out keeping in view the utilization and reuzibility of datapackage.json and code respectively. For this purpose couple of script files (`process.py` and `wrapper.py`) were included in scripts folder. `wrapper.py` has the abstract class with generic methods to download raw files and appending data to CSVs. `process.py` has the concrete class, implementing the `setData()` method.
 
 # License
-Please follow [this]("https://creativecommons.org/licenses/by-sa/4.0/") for License information
+Please follow [this](https://creativecommons.org/licenses/by-sa/4.0/) for License information

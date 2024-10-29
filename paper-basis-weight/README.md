@@ -10,4 +10,4 @@ The data comes from an industrial source. The dataset consists of:
 Python version: 3.6 
 
 # License
-Please follow [this]("https://creativecommons.org/licenses/by-sa/4.0/") for License information
+Please follow [this](https://creativecommons.org/licenses/by-sa/4.0/) for License information

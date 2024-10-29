@@ -12,4 +12,4 @@ The data has been compiled from an industrial source, where variable names have 
 Python version: 3.6 
 
 # License
-Please follow [this]("https://creativecommons.org/licenses/by-sa/4.0/") for License information
+Please follow [this](https://creativecommons.org/licenses/by-sa/4.0/) for License information
